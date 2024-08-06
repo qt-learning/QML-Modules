@@ -20,7 +20,7 @@ Rectangle {
 
     MouseArea {
         anchors.fill: parent
-        onClicked: function(event) {
+        onClicked: {
             root.clicked()
             Logic.onClicked(root)
         }
