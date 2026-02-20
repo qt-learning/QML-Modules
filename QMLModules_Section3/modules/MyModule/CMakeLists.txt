@@ -1,3 +1,6 @@
+# Copyright (C) 2026 Qt Group.
+# SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
+
 project(MyModule VERSION 0.1 LANGUAGES CXX)
 
 #https://doc.qt.io/qt-6/cmake-source-file-property-qt-resource-alias.html
