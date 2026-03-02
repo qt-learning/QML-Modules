@@ -14,7 +14,7 @@ QMLModules_Section2: Example to demonstrate how to create and build a QML module
 
 QMLModules_Section3: Example to demonstrate how to create and build a QML module and use it in a structured project. Tested with with Qt 6.5.5 MinGW 64-bit.
 
-## Resouces
+## Resources
 
 If you need additional help, the following resources may be helpful:
 
